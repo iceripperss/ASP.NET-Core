@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj": {}
+    "C:\\Users\\User\\source\\repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj": {
+    "C:\\Users\\User\\source\\repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj",
         "projectName": "HelloApp",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\ASP.NET-Core\\HelloApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\ASP.NET-Core\\HelloApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

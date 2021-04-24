@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82Ce5qaS6OAtcPWxFGzplMkFdH+WMH0xQpc2TMZWgGtJyeOeQkWp+gZttlm8/owYrnPpkRkGzaVkRFh/kxOehw==",
+  "dgSpecHash": "L3Y+ckow/eI8iqYaLx9C3kKJufY+kB8E297FWn9rqR4+88303zOogtvxY68FOZYPOoDRqAcDTuMicE4420K5Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ASP.NET-Core\\HelloApp\\HelloApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
